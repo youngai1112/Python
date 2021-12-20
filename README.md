@@ -1,2 +1,3 @@
 # Python
-Python 공부 내용 정리
+
+07. condition과 loop 정리
