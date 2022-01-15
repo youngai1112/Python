@@ -1,3 +1,5 @@
 # Python
 
-07. condition과 loop 정리
+2021.11 ~ 12 HK_수업노트 
+
+REVIEW
