@@ -1,8 +1,11 @@
 
 ## 2021.11 ~ 12 HK_수업노트 
 
+## 프로젝트 오일러
+- 출처 : https://euler.synap.co.kr/
+
 ## 초보자를 위한 파이썬 300제
-- 출처: https://wikidocs.net/78563
+- 출처 : https://wikidocs.net/78563
 - 문제풀이
 
 ## Python_Class 개념 및 예제 정리
